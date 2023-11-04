@@ -85,5 +85,5 @@ arr.filter((item) => {
     }
 })
 
-console.log(a);
-console.log(b);
+console.log("done:", a)
+console.log("undone:", b)
